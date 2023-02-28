@@ -6,4 +6,7 @@ CS-50 intro game
 
 - you and me are basically a pair trying to get together.
 - me dont have any mobility so stays where it is while you do all the work
-- 
+
+## run
+
+- py Game_start.py
