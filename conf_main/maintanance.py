@@ -1,7 +1,7 @@
-import cnfg
+import conf_main.cnfg as cnfg
 import pygame
 import sys
-import level_zero
+from levels import level_zero
 
 
 class PlayerInstancing(pygame.sprite.Sprite):

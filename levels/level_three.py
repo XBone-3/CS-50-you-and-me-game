@@ -1,6 +1,6 @@
 import random
-import maintanance as mnt
-import cnfg
+import conf_main.maintanance as mnt
+import conf_main.cnfg as cnfg
 import pygame
 import sys
 

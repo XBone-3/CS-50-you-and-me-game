@@ -1,9 +1,9 @@
 import random
-import maintanance as mnt
-import cnfg
+import conf_main.maintanance as mnt
+import conf_main.cnfg as cnfg
 import pygame
 import sys
-import level_three
+import levels.level_three as level_three
 
 
 def main_game_loop(world):

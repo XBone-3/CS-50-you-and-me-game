@@ -1,5 +1,5 @@
-import cnfg
-import level_zero
+import conf_main.cnfg as cnfg
+import levels.level_zero as level_zero
 import pygame
 import sys
 
